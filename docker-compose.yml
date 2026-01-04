@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  react-app:
+    image: deepesh79/dev:latest
+    ports:
+      - "80:80"
+    restart: always
