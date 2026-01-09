@@ -2,7 +2,7 @@
 
 set -e
 
-IMAGE_NAME="deepesh/dev"
+IMAGE_NAME="deepesh79/dev"
 TAG="latest"
 
 echo "Building Docker image..."
